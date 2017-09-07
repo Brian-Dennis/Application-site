@@ -1,66 +1,36 @@
 # Application-site
 
-This is a front end project made with scss
+This is a front end project made with SASS, and utilized Photoshop to edit the images.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Just need a web browser to view if your intentions or only to view then once cloning the project just open any of the .html files and view, if you wish to view or edit the code I would recommend a text editor i.e. atom.io, sublimetext, vim.
 
 ```
-Give examples
+git clone https://github.com/Brian-Dennis/Application-site.git
 ```
 
 ### Installing
 
 A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
+Step One. clone the project
 
 ```
-Give the example
+git clone https://github.com/Brian-Dennis/Application-site.git
 ```
 
-And repeat
+Step Two. Open and view
 
 ```
-until finished
+Double click one of the html files in the directory and view in the browser.
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
 
