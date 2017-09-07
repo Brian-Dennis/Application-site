@@ -30,7 +30,11 @@ Step Two. Open and view
 Double click one of the html files in the directory and view in the browser.
 ```
 
+![Application-site](img/phone-in-hand.jpg?raw=True "Application Site")
 
+![Application-site](img/phone.png?raw=True "Application Site")
+
+![Application-site](img/call-to-action-background.jpg?raw=True "Application Site")
 
 ## Authors
 
